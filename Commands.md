@@ -2,11 +2,11 @@
 # Basic git command and instruction
 
 ## Create repository
-- **git init**
+- **git init** -- creating a new Git repository in the current directories
 
 ## Adding files to tracking
-- **git add <file name>** -- 
-- **git add .** --
+- **git add <file name>** -- add a specific file to the index (staging area)
+- **git add .** -- add all changes in the current directory to the index
 
 ## Fixate changes
 - **git commit -m "message"** -- commit changes with comment
